@@ -118,10 +118,10 @@ LOGGING = {
 }
 
 
-# Cyclope settings
-
+## Cyclope settings
+## Uncomment this lines to enable local themes directories. Customize if needed.
 #CYCLOPE_LOCAL_THEMES_DIR = os.path.join(CYCLOPE_PROJECT_PATH, 'templates/cyclope/themes/')
-#CYCLOPE_LOCAL_THEMES_MEDIA_PREFIX = '/static/local_themes/'
+#CYCLOPE_LOCAL_THEMES_MEDIA_PREFIX = '/static/custom_themes/'
 
 CYCLOPE_PREFIX = ''
 
